@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @victahans
 - 👀 I’m interested in gaming
-- 🌱 I’m currently pursuing my bachelor's degree in Computer science
+- 🌱 I have a bachelor's degree in Computer Science
 - 🙏I’m looking to learn new programming skills
-- 📫 How to reach me ..im on Instagram @marraca._
+- ⚡ I'm proficient in Python and Typescript
+- 📫 How to reach me ..email me: victormwangi100@gmail.com
 
 <!---
 victahans/victahans is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
